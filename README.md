@@ -7,7 +7,6 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 ## Fact Tables 
 - Payment
 - Rental
-
 ## Dimension Tables
 - Actor
 - Address
@@ -21,5 +20,5 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 - Inventory
 - Language
 - Staff
-##Source
+## Source
 The data source was from Rockbuster Stealth LLC
