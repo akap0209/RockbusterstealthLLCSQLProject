@@ -7,18 +7,19 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 ## Fact Tables 
 - Payment
 - Rental
+
 ##Dimension Tables
-Actor
-Address
-Category
-City
-Country
-Customer
-Film
-Film Actor
-Film Category
-Inventory
-Language
-Staff
+- Actor
+- Address
+- Category
+- City
+- Country
+- Customer
+- Film
+- Film Actor
+- Film Category
+- Inventory
+- Language
+- Staff
 ##Source
 The data source was from Rockbuster Stealth LLC
