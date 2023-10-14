@@ -5,7 +5,8 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 ## Data Used 
 The data was provided by Rockbuster in the Project Brief. The data set worked on contained the following information:
 ## Fact Tables 
-Payment
+
+The data was provided by Rockbuster in the Project Brief. The data set worked on contained the following information:Payment
 Rental
 ##Dimension Tables
 Actor
