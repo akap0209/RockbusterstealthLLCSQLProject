@@ -8,7 +8,7 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 - Payment
 - Rental
 
-##Dimension Tables
+## Dimension Tables
 - Actor
 - Address
 - Category
