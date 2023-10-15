@@ -1,4 +1,4 @@
-# This is a SQL query displaying the use of a common table expression to show the top 5 customers in each country
+# This is a SQL query displaying the use of a common table expression to show the average amount paid by the top 5 customers in each country
 
 WITH top_5_customers (customer_id, first_name,last_name, country, city, total_amount_paid) AS 
 (SELECT A.customer_id, A.first_name AS "customer first name", A.last_name AS "customer last name", D.country, C.city, 
